@@ -1,2 +1,3 @@
-# prob-stats-practice
-my attempted solutions at probability &amp; statistics problems when i have some free time :)
+# Probability Statistics Problems
+
+my attempted solutions at probability &amp; statistics problems when i have some free time :) i organize each problem with my initial reasoning and if it's correct, then i will state that. if it's not than i will put another section called "Correction". i want to have a space of active learning and revision where i record my mistakes/what i forget with useful resources that aide the process of correcting my mistake. i make an intentional decision to not use AI here because this is more of a honest personal catalogue of practicing problem-solving rather than a product that has any users.
